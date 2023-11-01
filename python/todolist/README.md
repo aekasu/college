@@ -1,5 +1,6 @@
 # TODO-List
 Simple command line TODO-List application for efficient management of tasks.
+Written in Python using `argparse`.
 ```bash
 py todo.py --help
 ```
