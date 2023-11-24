@@ -1,2 +1,2 @@
 # college
-archive for mini/major projects for my college classes
+archive for minor/major projects for my college classes
